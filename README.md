@@ -69,25 +69,25 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 This laravel project is an assignment for framework based programming. In this assignment we are asked to make a simple website using Laravel.
 The UI used for this website is minimalistic and very modern so that it is easy to navigate. It is composed of four sections, which are Home, Blog, About, and Contact. Below are the explanations for the website's UI and the screenshots.
 
-# Home
+### Home
 
 ![image](https://github.com/user-attachments/assets/a6659dc5-ff6b-4260-bedd-90659961934f)
 
 The homepage is the first page that users will see when they load the website. For the homepage, I gave a brief introduction and a friendly welcome GIF from one of my favourite anime characters because most of the content in the site is related to me and my hometown and a GIF of something that I like might be able to interest people to get to know who I am and where I come from through the website.
 
-# Blog
+### Blog
 
 ![image](https://github.com/user-attachments/assets/06fde7d8-c52e-4c6c-9b00-82b700dd1d54)
 
 The blog is the second section  of this website. It is designed to accomodate anykind of blog entries or articles that we make. In this section, I made a simple article about Jakarta because it is my hometown and I am quite fond of it. The readers of this website are given a brief description of Jakarta and other aspects of Jakarta such as the public transportation system, parks, and libraries that make me enjoy living there.
 
-# About
+### About
 
 ![image](https://github.com/user-attachments/assets/f4bc6d76-68a6-4004-900a-a55e3f34e897)
 
 The about page is the third section of the website. It functions as an area for the website's owner to give an introduction about themselves and the website's purpose. In the about page, I wrote a few details about myself and my purpose of making the website which is for helping the general public to know about me and my hometown from my point of view.
 
-# Contact
+### Contact
 
 ![image](https://github.com/user-attachments/assets/fcd1a9c0-5cbd-4f09-8efa-b5929520652e)
 
