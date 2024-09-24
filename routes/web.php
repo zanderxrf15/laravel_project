@@ -23,7 +23,6 @@ Route::get('/posts/{slug}', function($slug){
     return view('post', ['title' => 'Single Post', 'post' => $post]); 
 });
 
-
 Route::get('/contact', function () {
     return view('contact', ['title' => 'Contact']);
 });
