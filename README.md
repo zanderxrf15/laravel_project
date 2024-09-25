@@ -67,7 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## My Laravel Project
 This laravel project is an assignment for framework based programming. In this assignment we are asked to make a simple website using Laravel.
-The UI used for this website is minimalistic and very modern so that it is easy to navigate. It is composed of four sections, which are Home, Blog, About, and Contact. Below are the explanations for the website's UI and the screenshots.
+The UI used for this website is minimalistic and very modern so that it is easy to navigate. It is composed of four sections, which are Home, Blog, About, and Contact. Below are the explanations for the website's UI and the screenshots. Besides the website's UI, other aspects of the website will be explained as well.
 
 ### Home
 
@@ -81,6 +81,13 @@ The homepage is the first page that users will see when they load the website. F
 
 The blog is the second section  of this website. It is designed to accomodate anykind of blog entries or articles that we make. In this section, I made a simple article about Jakarta because it is my hometown and I am quite fond of it. The readers of this website are given a brief description of Jakarta and other aspects of Jakarta such as the public transportation system, parks, and libraries that make me enjoy living there.
 
+
+![image](https://github.com/user-attachments/assets/8a00ed48-b44b-4a94-ab21-ff9dea34c356)
+
+![image](https://github.com/user-attachments/assets/37ae7217-fe92-41eb-8950-4a8b50987a56)
+
+The blog has been updated to include two articles. The complete content of the article can be accessed by clicking on the title of the article or the read more button.
+
 ### About
 
 ![image](https://github.com/user-attachments/assets/f4bc6d76-68a6-4004-900a-a55e3f34e897)
@@ -92,3 +99,5 @@ The about page is the third section of the website. It functions as an area for 
 ![image](https://github.com/user-attachments/assets/fcd1a9c0-5cbd-4f09-8efa-b5929520652e)
 
 The contact page is the final section of the website. In this section, the owner of the website can provide links for their social media, online portofolio, and email for people who are interested in the content of the website and wish to connect with the owner for further details. As for the contact section, I provided a friendly GIF inviting people to stay connected as well as links to my Github and LinkedIn for people to reach out if they are interested in knowing me further or to inquire about my website's content.
+
+### Database
