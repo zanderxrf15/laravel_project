@@ -86,6 +86,8 @@ The blog is the second section  of this website. It is designed to accomodate an
 
 ![image](https://github.com/user-attachments/assets/37ae7217-fe92-41eb-8950-4a8b50987a56)
 
+![image](https://github.com/user-attachments/assets/ddd86677-48aa-4619-93f5-353db0289315)
+
 The blog has been updated to include two articles. The complete content of the article can be accessed by clicking on the title of the article or the read more button.
 
 ### About
