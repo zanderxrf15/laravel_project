@@ -122,9 +122,17 @@ The about page is the third section of the website. It functions as an area for 
 
 The contact page is the final section of the website. In this section, the owner of the website can provide links for their social media, online portofolio, and email for people who are interested in the content of the website and wish to connect with the owner for further details. As for the contact section, I provided a friendly GIF inviting people to stay connected as well as links to my Github and LinkedIn for people to reach out if they are interested in knowing me further or to inquire about my website's content.
 
+
 ### Database
 
 ![Screenshot 2024-09-25 135719](https://github.com/user-attachments/assets/ad9a6486-ed01-40b6-8061-ce9a5601178a)
 
 ![Screenshot 2024-09-27 012007](https://github.com/user-attachments/assets/7bc0936d-ace2-4aea-abdf-caafa25e1512)
 
+![Screenshot 2024-09-30 182310](https://github.com/user-attachments/assets/adfd6bd2-4712-435f-bd4f-07b50b4129ed)
+
+![Screenshot 2024-09-30 182329](https://github.com/user-attachments/assets/980428f6-047e-4b9d-b865-8f9465762583)
+
+![Screenshot 2024-09-30 182403](https://github.com/user-attachments/assets/26488f06-a082-47c6-af5a-dedf55f01d14)
+
+The database stores data of the users, categories, and posts of the blog. It is automatically updated when there are changes to the users, categories, posts of the blog.
