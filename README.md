@@ -69,11 +69,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 This laravel project is an assignment for framework based programming. In this assignment we are asked to make a simple website using Laravel.
 The UI used for this website is minimalistic and very modern so that it is easy to navigate. It is composed of four sections, which are Home, Blog, About, and Contact. Below are the explanations for the website's UI and the screenshots. Besides the website's UI, other aspects of the website will be explained as well.
 
+
 ### Home
 
 ![image](https://github.com/user-attachments/assets/a6659dc5-ff6b-4260-bedd-90659961934f)
 
 The homepage is the first page that users will see when they load the website. For the homepage, I gave a brief introduction and a friendly welcome GIF from one of my favourite anime characters because most of the content in the site is related to me and my hometown and a GIF of something that I like might be able to interest people to get to know who I am and where I come from through the website.
+
 
 ### Blog
 
@@ -98,11 +100,21 @@ The blog is the second section  of this website. It is designed to accomodate an
 
 The blog has been updated to include more articles. The complete content of the article can be accessed by clicking on the title of the article or the read more button.
 
+![Screenshot 2024-09-30 180222](https://github.com/user-attachments/assets/fb52dadb-c8a2-4c61-a424-c329cf25d293)
+
+![Screenshot 2024-09-30 180238](https://github.com/user-attachments/assets/688eca88-e549-48b7-ae9c-433a70d0510d)
+
+![Screenshot 2024-09-30 180255](https://github.com/user-attachments/assets/a960bd80-57a0-457f-a930-dd32233d15c5)
+
+The name of authors of the articles of the blog can be clicked to obtain information that shows the articles they have written. The category of articles are placed as well and it can be clicked to obtain information that outputs all of the articles in a particular category. 
+
+
 ### About
 
 ![image](https://github.com/user-attachments/assets/f4bc6d76-68a6-4004-900a-a55e3f34e897)
 
 The about page is the third section of the website. It functions as an area for the website's owner to give an introduction about themselves and the website's purpose. In the about page, I wrote a few details about myself and my purpose of making the website which is for helping the general public to know about me and my hometown from my point of view.
+
 
 ### Contact
 
