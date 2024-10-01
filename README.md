@@ -135,4 +135,4 @@ The contact page is the final section of the website. In this section, the owner
 
 ![Screenshot 2024-09-30 182403](https://github.com/user-attachments/assets/26488f06-a082-47c6-af5a-dedf55f01d14)
 
-The database stores data of the users, categories, and posts of the blog. It is automatically updated when there are changes to the users, categories, posts of the blog.
+The database stores data of the users, categories, and posts of the blog. It is automatically updated when there are changes to the users, categories, and posts of the blog.
