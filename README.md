@@ -108,13 +108,9 @@ The blog has been updated to include more articles. The complete content of the 
 
 The name of authors of the articles of the blog can be clicked to obtain information that shows the articles they have written. The category of articles are placed as well and it can be clicked to obtain information that outputs all of the articles in a particular category. 
 
-![Screenshot 2024-10-03 201105](https://github.com/user-attachments/assets/71cbff3a-2a54-41b1-be4b-40cb5fd6c8a2)
-
-The blog's UI has been updated for easier navigation and viewing.
-
 ![Screenshot 2024-10-04 032503](https://github.com/user-attachments/assets/81a9e8c0-c230-47bd-b155-e87b4d978865)
 
-The articles on the blog have been laid out into pages and a search bar has been placed on the blog to aid users searching for specific articles.
+The blog's UI has been updated for easier navigation and viewing. Articles on the blog have been laid out into pages and a search bar has been placed on the blog to aid users searching for specific articles.
 
 ### About
 
