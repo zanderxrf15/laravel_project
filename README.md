@@ -112,9 +112,9 @@ The name of authors of the articles of the blog can be clicked to obtain informa
 
 The blog's UI has been updated for easier navigation and viewing.
 
-![Screenshot 2024-10-04 012212](https://github.com/user-attachments/assets/df02f223-7d92-4a0d-9b09-de4cc7eddcdb)
+![Screenshot 2024-10-04 032503](https://github.com/user-attachments/assets/81a9e8c0-c230-47bd-b155-e87b4d978865)
 
-A search bar has been placed on the blog to aid users searching for specific articles.
+The articles on the blog have been laid out into pages and a search bar has been placed on the blog to aid users searching for specific articles.
 
 ### About
 
