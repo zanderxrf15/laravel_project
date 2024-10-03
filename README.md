@@ -81,7 +81,7 @@ The homepage is the first page that users will see when they load the website. F
 
 ![image](https://github.com/user-attachments/assets/06fde7d8-c52e-4c6c-9b00-82b700dd1d54)
 
-The blog is the second section  of this website. It is designed to accomodate anykind of blog entries or articles that we make. In this section, I made a simple article about Jakarta because it is my hometown and I am quite fond of it. The readers of this website are given a brief description of Jakarta and other aspects of Jakarta such as the public transportation system, parks, and libraries that make me enjoy living there.
+The blog is the second section  of this website. It is designed to accomodate any kind of blog entries or articles that we make. In this section, I made a simple article about Jakarta because it is my hometown and I am quite fond of it. The readers of this website are given a brief description of Jakarta and other aspects of Jakarta such as the public transportation system, parks, and libraries that make me enjoy living there.
 
 
 ![image](https://github.com/user-attachments/assets/8a00ed48-b44b-4a94-ab21-ff9dea34c356)
